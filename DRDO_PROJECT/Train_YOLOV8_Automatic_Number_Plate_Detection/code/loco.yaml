@@ -1,0 +1,7 @@
+path: C:\Users\acer\OneDrive\Desktop\MyCodes\DRDO_PROJECT\Train_YOLOV8_Automatic_Number_Plate_Detection\code\data # dataset root dir
+train: images\train # train images (relative to 'path')
+val: images\train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Number Plate

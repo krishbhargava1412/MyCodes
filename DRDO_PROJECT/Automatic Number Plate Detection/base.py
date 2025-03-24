@@ -1,0 +1,2 @@
+X = "self"
+print (X)
