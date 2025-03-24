@@ -24,7 +24,9 @@ Welcome to **MyCodes**! This repository contains a collection of my coding proje
 3. Run or modify the code as needed!
 
 ## 🛠️ Technologies Used
+
 This repository includes code written in various programming languages and technologies, such as:
+
 - Python 🐍
 - Java ☕
 - C++ 🚀
@@ -32,16 +34,18 @@ This repository includes code written in various programming languages and techn
 - SQL & Databases 💾
 
 ## 🤝 Contributing
+
 Contributions are welcome! If you find a bug or have an improvement, feel free to fork the repository and submit a pull request.
 
 ## 🌟 Star the Repository
+
 If you find this repository useful, consider giving it a ⭐ to show support!
 
 ## 📬 Contact
 
 - GitHub: [krishbhargava1412](https://github.com/krishbhargava1412)
-- Email: [bhargavakrish03@gmail.com](mailto:bhargavakrish03@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [bhargavakrish03@gmail.com](mailto\:bhargavakrish03@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/krish-bhargava/](https://www.linkedin.com/in/krish-bhargava/)
 
 
 Happy Coding! 🚀
